@@ -1,0 +1,27 @@
+{
+  "name": "web2markdown",
+  "version": "1.0.0",
+  "description": "Archive internet sites to Markdown format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardian/web2markdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "web",
+    "convert"
+  ],
+  "author": "Ardian Haxha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardian/web2markdown/issues"
+  },
+  "homepage": "https://github.com/ardian/web2markdown#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
